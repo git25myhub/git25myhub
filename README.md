@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=git25myhub&color=blue)
 # 👋 Hi, I'm Stephen Kariuki
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;IoT+Builder;Problem+Solver;Tech+Entrepreneur)
+
 🚀 Full-Stack & IoT Developer
 ![](https://komarev.com/ghpvc/?username=git25myhub&color=blue)
 🎓 BSc Physics Student
