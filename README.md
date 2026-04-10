@@ -56,13 +56,34 @@ A real-world system designed to improve restaurant efficiency:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git25myhub&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git25myhub&layout=compact&theme=radical)
+### 📈 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=git25myhub&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=git25myhub&theme=radical)
+### 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git25myhub&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=css,html" />
+
+### 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com/?user=git25myhub&theme=radical&hide_border=true" />
+
+</div>
+
+<!-- Backup Analytics (in case APIs fail) -->
+<details>
+<summary><b>📊 Alternative Analytics</b></summary>
+
+#### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=git25myhub&color=blue&style=flat-square)
+
+#### 💡 Skill Snapshot
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Advanced-E34F26?style=flat-square&logo=html5)
+
+</details>
 
 🔥 What Makes Me Different
 🧩 I combine software + hardware (IoT)
