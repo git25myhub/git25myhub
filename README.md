@@ -7,7 +7,7 @@
 🌍 Kenya
 
 ---
-##⚡ About Me
+## ⚡ About Me
 
 I design and build real-world systems that combine software and hardware.
 
