@@ -61,10 +61,10 @@ A real-world system designed to improve restaurant efficiency:
 <div align="center">
 
 ### 📈 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=git25myhub&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git25myhub&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
 
 ### 💻 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git25myhub&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=css,html" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git25myhub&layout=donut&theme=radical&hide_border=true&langs_count=10&hide=html,css)
 
 ### 🔥 GitHub Streak
 <img src="https://streak-stats.demolab.com/?user=git25myhub&theme=radical&hide_border=true" />
@@ -85,6 +85,8 @@ A real-world system designed to improve restaurant efficiency:
 
 </details>
 
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=git25myhub&theme=radical&hide_border=true" />
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=git25myhub&theme=radical&hide_border=true" />
 🔥 What Makes Me Different
