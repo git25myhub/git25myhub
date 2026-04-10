@@ -85,8 +85,6 @@ A real-world system designed to improve restaurant efficiency:
 
 </details>
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=git25myhub&theme=radical&hide_border=true" />
 ### 📊 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=git25myhub&theme=radical&hide_border=true" />
 🔥 What Makes Me Different
