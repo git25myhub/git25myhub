@@ -1,14 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=git25myhub&color=blue)
 # 👋 Hi, I'm Stephen Kariuki
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;IoT+Builder;Problem+Solver;Tech+Entrepreneur)
-
 🚀 Full-Stack & IoT Developer
 ![](https://komarev.com/ghpvc/?username=git25myhub&color=blue)
 🎓 BSc Physics Student
 🌍 Kenya
 
 ---
-⚡ About Me
+##⚡ About Me
 
 I design and build real-world systems that combine software and hardware.
 
@@ -16,6 +15,7 @@ I design and build real-world systems that combine software and hardware.
 🔹 Passion: Solving real business problems with technology
 🔹 Currently building: Smart QR-based ordering systems
 
+---
 ## 🔥 What I Do
 
 I build **smart restaurant systems** combining:
